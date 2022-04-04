@@ -224,3 +224,76 @@ img{
         padding: 50px 20px;
     }
 }
+@media(max-width:654px){
+    .progress{
+        width: 150px;
+    }
+    .card-info p{
+        font-size:10px;
+    }
+    card-info h2{
+        font-size:15px;
+    }
+    .link{
+        margin: 0 ;
+    }
+}
+@media(max-width:654px){
+    .glass{
+        display: inline;
+        width: 55%;
+        margin: 20px 0;;
+    }
+    .dashboard{
+        border-radius: 2rem 2rem 0 0;
+        padding: 20px;
+    }
+    .progress{
+        width: 100px;
+        height: 15px;
+    }
+    .user{
+        width: 150px;
+        margin-bottom: 20px;
+    }
+    .user h3{
+        font-size: 20px;
+    }
+    .user p{
+        font-size: 15px;
+    }
+    .link img{
+        width: 50px;
+    }
+    .link h2{
+        font-size: 18px;
+    }
+    .pro{
+        margin-top: 10px;
+        padding: 20px 40px;
+    }
+    .pro h2{
+        font-size: 18px;
+        margin-right: 20px;
+    }
+    .status input{
+        width: 150px;
+    }
+    .status h1{
+        font-size: 22px;
+    }
+}  
+@media(max-width:497px){
+    .glass{
+        width: 70%;
+    }
+
+}  
+@media(max-width:384px){
+    .glass{
+        width: 80%;
+    }                   
+    .card .precentage{
+        font-size:12px;
+    }
+}
