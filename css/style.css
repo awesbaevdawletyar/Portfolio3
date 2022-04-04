@@ -197,7 +197,7 @@ img{
 }
 .progress.cplus::after{
     content: '';
-    width:60%;
+    width:65%;
     height: 100%;
     background-color: #5ac5bd;
     display:block;
@@ -294,6 +294,6 @@ img{
         width: 80%;
     }                   
     .card .precentage{
-        font-size:12px;
+        font-size:13px;
     }
 }
