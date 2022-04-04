@@ -92,7 +92,7 @@ img{
 }
 .link h2 a{
     text-decoration: none;
-    color: black;
+    color: rgba(83, 96, 97, 0.288);
 }
 .user h3{
     font-size: 15px;
